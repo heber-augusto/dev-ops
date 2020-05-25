@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="banner.png" >
+  <a href="https://br.freepik.com/fotos-vetores-gratis/computador">Computador vetor criado por upklyak - br.freepik.com</a>
 </p>
 
 # Heber Augusto Scachetti
