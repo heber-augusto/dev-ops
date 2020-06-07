@@ -13,7 +13,7 @@
 ## Projects:
 * [GOlang docker example](https://github.com/heber-augusto/devops-golang-docker): A docker-compose and docker files to create a golang environment using multistage to create a small image (less than 2MB size);
 * [Laravel and other images docker example](https://github.com/heber-augusto/devops-laravel-docker): A docker-compose file with Nginx, PHP-FPM, Redis, MySQL and laravel including dependencies checks and others important configurations;
-* [A Google cloud builder with docker-compose](https://github.com/heber-augusto/devops-cloud-builder-docker-compose): A project to create a docker-compose image for Google cloud build;
+* [A Google cloud build for docker-compose image](https://github.com/heber-augusto/devops-cloud-build-docker-compose): A project to create a docker-compose image for Google cloud build;
 ---
 
 
